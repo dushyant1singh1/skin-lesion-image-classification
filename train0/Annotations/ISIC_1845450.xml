@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nevus</folder>
+	<filename>ISIC_1845450.jpg</filename>
+	<path>C:\Users\deSni\.deeplearning4j\data\melanomaChallenge\resized\trainSorted\nevus\ISIC_1845450.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>343</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nevus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>71</ymin>
+			<xmax>228</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

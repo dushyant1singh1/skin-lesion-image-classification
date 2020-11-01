@@ -1,0 +1,26 @@
+<annotation>
+	<folder>melanoma</folder>
+	<filename>ISIC_0214037.jpg</filename>
+	<path>C:\Users\deSni\.deeplearning4j\data\melanomaChallenge\resized\trainSorted\melanoma\ISIC_0214037.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>341</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>melanoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>88</ymin>
+			<xmax>201</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

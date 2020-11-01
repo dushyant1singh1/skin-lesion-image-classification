@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sebK_combinedSrc</folder>
+	<filename>ISIC_0013203.jpg</filename>
+	<path>C:\Users\Sweet\Desktop\New folder\sebK_combinedSrc\sebK_combinedSrc\ISIC_0013203.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>385</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>seborrheic keratosis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>54</ymin>
+			<xmax>287</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

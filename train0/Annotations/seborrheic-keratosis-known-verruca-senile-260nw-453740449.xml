@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sebK_combinedSrc</folder>
+	<filename>seborrheic-keratosis-known-verruca-senile-260nw-453740449.jpg</filename>
+	<path>C:\Users\Sweet\Desktop\New folder\sebK_combinedSrc\sebK_combinedSrc\seborrheic-keratosis-known-verruca-senile-260nw-453740449.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>357</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>seborrheic keratosis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>97</ymin>
+			<xmax>271</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>

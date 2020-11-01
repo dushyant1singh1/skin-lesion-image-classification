@@ -1,0 +1,26 @@
+<annotation>
+	<folder>seborrheic keratosis</folder>
+	<filename>ISIC_1866859.jpg</filename>
+	<path>C:\Users\Sweet\Desktop\New folder\validation\seborrheic keratosis\ISIC_1866859.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>seborrheic keratosis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>67</ymin>
+			<xmax>267</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

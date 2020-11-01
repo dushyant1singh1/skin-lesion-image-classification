@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nevus</folder>
+	<filename>ISIC_0307909.jpg</filename>
+	<path>C:\Users\Sweet\Desktop\New folder\validation\nevus\ISIC_0307909.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nevus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>102</ymin>
+			<xmax>263</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+</annotation>

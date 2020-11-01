@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sebK_combinedSrc</folder>
+	<filename>sebks29__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDF.jpg</filename>
+	<path>C:\Users\Sweet\Desktop\New folder\sebK_combinedSrc\sebK_combinedSrc\sebks29__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDF.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>339</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>seborrheic keratosis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>16</ymin>
+			<xmax>314</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>
